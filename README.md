@@ -32,18 +32,17 @@ A collection of small systems projects covering allocators, containers, and sche
 
 ## Other Work
 
-### Game Development
-
-* [Peglin](https://github.com/mathieu-portfolio/Peglin): reverse engineering of Peglin
-* [Bad-North](https://github.com/mathieu-portfolio/Bad-North): reverse engineering of Bad North
-* [The-Ultimate-Alchemist](https://github.com/mathieu-portfolio/The-Ultimate-Alchemist): element-combination game
-* [Brick-Breaker](https://github.com/mathieu-portfolio/Brick-Breaker): C++ brick breaker
-* [Asteroids](https://github.com/mathieu-portfolio/Asteroids): C++ SFML remake
-
 ### Procedural Generation
 
 * [Mindmap-Generator](https://github.com/mathieu-portfolio/Mindmap-Generator): generates concept graphs from Wikipedia
 * [Voronoi-Generator](https://github.com/mathieu-portfolio/Voronoi-Generator): Voronoi diagram generation
+
+### Game Development
+
+* [Peglin](https://github.com/mathieu-portfolio/Peglin): reverse engineering of Peglin
+* [The-Ultimate-Alchemist](https://github.com/mathieu-portfolio/The-Ultimate-Alchemist): element-combination game
+* [Brick-Breaker](https://github.com/mathieu-portfolio/Brick-Breaker): C++ brick breaker
+* [Asteroids](https://github.com/mathieu-portfolio/Asteroids): C++ SFML remake
 
 ---
 
