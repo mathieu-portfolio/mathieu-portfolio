@@ -34,8 +34,8 @@ A collection of small systems projects covering allocators, containers, and sche
 
 ### Procedural Generation
 
-* [Mindmap-Generator](https://github.com/mathieu-portfolio/Mindmap-Generator): generates concept graphs from Wikipedia
 * [Voronoi-Generator](https://github.com/mathieu-portfolio/Voronoi-Generator): Voronoi diagram generation
+* [Mindmap-Generator](https://github.com/mathieu-portfolio/Mindmap-Generator): generates concept graphs from Wikipedia
 
 ### Game Development
 
