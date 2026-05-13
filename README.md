@@ -1,48 +1,86 @@
 # Mathieu — C++ Systems Engineer
 
-I build small, focused C++ projects to explore low-level systems concepts.
+I build performance-oriented C++ projects focused on simulation, runtime systems, and low-level architecture.
 
-My work focuses on:
+My work explores:
 
-* memory management and data structures
+* data-oriented design and memory layout
+* deterministic simulation systems
 * concurrency and scheduling
+* profiling, benchmarking, and scalability
 * execution models and runtime behavior
 
-The goal is to write systems that are:
+I aim to build systems that are:
 
-* simple to reason about
 * explicit in ownership and invariants
-* easy to explain and extend
+* efficient and easy to reason about
+* measurable and reproducible
+* simple to extend and maintain
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### C++ Systems Explorations
+### [flock3d](https://github.com/mathieu-portfolio/flock3d)
 
-A collection of small systems projects covering allocators, containers, and schedulers.
+Real-time deterministic 3D boids simulation focused on performance, scalability, and simulation architecture.
 
-* arena allocator, custom vector
-* thread pool, job system, task graph
-* work stealing and fiber-based scheduling
+Features include:
 
-→ https://github.com/mathieu-portfolio/cpp-systems-explorations
+* spatial partitioning systems
+* fixed-timestep deterministic simulation
+* profiling and benchmarking infrastructure
+* configurable simulation models
+* experiment tooling and metric visualization
+* runtime diagnostics and performance overlays
+
+Tech: C++20, CMake, raylib
 
 ---
 
-## Other Work
+### [cpp-sim-lab](https://github.com/mathieu-portfolio/cpp-sim-lab)
+
+Collection of performance-oriented simulation experiments exploring scalability, execution models, and parallel architectures.
+
+Current work includes:
+
+* CPU-based agent simulation systems
+* deterministic update pipelines
+* simulation benchmarking infrastructure
+* architecture experiments for large-scale simulations
+* exploration of future GPU and parallel execution paths
+
+Tech: C++20, simulation/runtime architecture research
+
+---
+
+### [cpp-systems-explorations](https://github.com/mathieu-portfolio/cpp-systems-explorations)
+
+Collection of focused systems programming experiments exploring runtime and low-level concepts.
+
+Includes:
+
+* arena allocator
+* custom vector/container implementations
+* thread pool and job system
+* task graph experiments
+* work-stealing and scheduling concepts
+
+---
+
+## Other Projects
 
 ### Procedural Generation
 
-* [Voronoi-Generator](https://github.com/mathieu-portfolio/Voronoi-Generator): Voronoi diagram generation
-* [Mindmap-Generator](https://github.com/mathieu-portfolio/Mindmap-Generator): generates concept graphs from Wikipedia
+* [Voronoi-Generator](https://github.com/mathieu-portfolio/Voronoi-Generator) — Voronoi diagram generation
+* [Mindmap-Generator](https://github.com/mathieu-portfolio/Mindmap-Generator) — concept graph generation from Wikipedia data
 
 ### Game Development
 
-* [Peglin](https://github.com/mathieu-portfolio/Peglin): reverse engineering of Peglin
-* [The-Ultimate-Alchemist](https://github.com/mathieu-portfolio/The-Ultimate-Alchemist): element-combination game
-* [Brick-Breaker](https://github.com/mathieu-portfolio/Brick-Breaker): C++ brick breaker
-* [Asteroids](https://github.com/mathieu-portfolio/Asteroids): C++ SFML remake
+* [Peglin](https://github.com/mathieu-portfolio/Peglin) — reverse engineering and gameplay systems
+* [The-Ultimate-Alchemist](https://github.com/mathieu-portfolio/The-Ultimate-Alchemist) — element-combination game
+* [Brick-Breaker](https://github.com/mathieu-portfolio/Brick-Breaker) — C++ arcade game
+* [Asteroids](https://github.com/mathieu-portfolio/Asteroids) — SFML-based remake
 
 ---
 
@@ -50,18 +88,20 @@ A collection of small systems projects covering allocators, containers, and sche
 
 I prefer:
 
-* minimal implementations over feature-heavy designs
+* focused implementations over feature-heavy designs
 * explicit control over abstractions
-* building from first principles
+* measurable performance characteristics
+* building systems from first principles
 
-Each project is intentionally scoped to explore one idea well.
+Each project is intentionally scoped to deeply explore a specific technical problem.
 
 ---
 
 ## Currently
 
-* improving problem-solving and algorithmic skills
-* preparing for C++ / systems engineering roles
+* improving algorithmic and problem-solving skills
+* preparing for C++ and systems engineering roles
+* exploring performance-oriented simulation architecture
 
 ---
 
