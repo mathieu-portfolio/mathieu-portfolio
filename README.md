@@ -9,6 +9,7 @@ My work explores:
 * concurrency and scheduling
 * profiling, benchmarking, and scalability
 * execution models and runtime behavior
+* CPU/GPU simulation pipelines
 
 I aim to build systems that are:
 
@@ -21,7 +22,7 @@ I aim to build systems that are:
 
 ## Featured Projects
 
-### [flock3d](https://github.com/mathieu-portfolio/flock3d)
+### [flock3d](https://github.com/mathieu-portfolio/flock3d?utm_source=chatgpt.com)
 
 Real-time deterministic 3D boids simulation focused on performance, scalability, and simulation architecture.
 
@@ -38,7 +39,25 @@ Tech: C++20, CMake, raylib
 
 ---
 
-### [cpp-sim-lab](https://github.com/mathieu-portfolio/cpp-sim-lab)
+### [particles3d-cuda](https://github.com/mathieu-portfolio/particles3d-cuda?utm_source=chatgpt.com)
+
+Interactive particle simulation exploring CPU vs GPU execution scaling for large particle counts.
+
+Features include:
+
+* CPU and CUDA simulation backends
+* runtime-switchable simulation modes
+* GPU benchmark infrastructure
+* particle throughput benchmarking
+* interactive 3D particle painting tools
+* runtime diagnostics and performance overlays
+* large-scale particle simulation experiments
+
+Tech: C++20, CUDA, CMake, raylib
+
+---
+
+### [cpp-sim-lab](https://github.com/mathieu-portfolio/cpp-sim-lab?utm_source=chatgpt.com)
 
 Collection of performance-oriented simulation experiments exploring scalability, execution models, and parallel architectures.
 
@@ -54,7 +73,7 @@ Tech: C++20, simulation/runtime architecture research
 
 ---
 
-### [cpp-systems-explorations](https://github.com/mathieu-portfolio/cpp-systems-explorations)
+### [cpp-systems-explorations](https://github.com/mathieu-portfolio/cpp-systems-explorations?utm_source=chatgpt.com)
 
 Collection of focused systems programming experiments exploring runtime and low-level concepts.
 
@@ -72,15 +91,15 @@ Includes:
 
 ### Procedural Generation
 
-* [Voronoi-Generator](https://github.com/mathieu-portfolio/Voronoi-Generator) — Voronoi diagram generation
-* [Mindmap-Generator](https://github.com/mathieu-portfolio/Mindmap-Generator) — concept graph generation from Wikipedia data
+* [Voronoi-Generator](https://github.com/mathieu-portfolio/Voronoi-Generator?utm_source=chatgpt.com) — Voronoi diagram generation
+* [Mindmap-Generator](https://github.com/mathieu-portfolio/Mindmap-Generator?utm_source=chatgpt.com) — concept graph generation from Wikipedia data
 
 ### Game Development
 
-* [Peglin](https://github.com/mathieu-portfolio/Peglin) — reverse engineering and gameplay systems
-* [The-Ultimate-Alchemist](https://github.com/mathieu-portfolio/The-Ultimate-Alchemist) — element-combination game
-* [Brick-Breaker](https://github.com/mathieu-portfolio/Brick-Breaker) — C++ arcade game
-* [Asteroids](https://github.com/mathieu-portfolio/Asteroids) — SFML-based remake
+* [Peglin](https://github.com/mathieu-portfolio/Peglin?utm_source=chatgpt.com) — reverse engineering and gameplay systems
+* [The-Ultimate-Alchemist](https://github.com/mathieu-portfolio/The-Ultimate-Alchemist?utm_source=chatgpt.com) — element-combination game
+* [Brick-Breaker](https://github.com/mathieu-portfolio/Brick-Breaker?utm_source=chatgpt.com) — C++ arcade game
+* [Asteroids](https://github.com/mathieu-portfolio/Asteroids?utm_source=chatgpt.com) — SFML-based remake
 
 ---
 
@@ -102,10 +121,11 @@ Each project is intentionally scoped to deeply explore a specific technical prob
 * improving algorithmic and problem-solving skills
 * preparing for C++ and systems engineering roles
 * exploring performance-oriented simulation architecture
+* learning GPU programming and CUDA workflows
 
 ---
 
 ## Contact
 
 * Email: [mathieu.sterlin@gmail.com](mailto:mathieu.sterlin@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/mathieu-sterlin-45300024b
+* LinkedIn: [mathieu-sterlin LinkedIn](https://www.linkedin.com/in/mathieu-sterlin-45300024b?utm_source=chatgpt.com)
