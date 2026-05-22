@@ -22,6 +22,21 @@ I aim to build systems that are:
 
 ## Featured Projects
 
+### [infra-sandbox](https://github.com/mathieu-portfolio/infra-sandbox?utm_source=chatgpt.com)
+
+Layered infrastructure simulation prototype exploring distributed systems visualization through specialized topology views and presentation-driven simulation rendering.
+
+Features include:
+
+* layered infrastructure visualization system
+* traffic, reliability, persistence and geography views
+* turn-based simulation with continuous presentation state
+* animated topology overlays and transitions
+* data-driven scenario and content framework
+* systems-oriented UI and visualization architecture
+
+Tech: C++20, CMake, raylib
+
 ### [flock3d](https://github.com/mathieu-portfolio/flock3d?utm_source=chatgpt.com)
 
 Real-time deterministic 3D boids simulation focused on performance, scalability, and simulation architecture.
