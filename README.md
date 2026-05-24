@@ -22,6 +22,25 @@ I aim to build systems that are:
 
 ## Featured Projects
 
+### [sensor-sandbox](https://github.com/mathieu-portfolio/sensor-sandbox)
+
+Real-time sensor and tracking visualization sandbox exploring deterministic target simulation, uncertainty propagation, and runtime tracking behavior.
+
+Features include:
+
+* deterministic procedural target spawning
+* linear, acceleration-aware, and turn-rate prediction models
+* maneuver detection and uncertainty propagation
+* procedural nonlinear target motion generation
+* scenario-driven sensor behavior experiments
+* real-time track state visualization and timelines
+* detection noise, false positives, and intermittent contact simulation
+* runtime tuning panels and instrumentation overlays
+* layered rendering architecture for tracks, detections, and uncertainty
+* operational-style sensor visualization and audio feedback
+
+Tech: C++20, CMake, raylib
+
 ### [infra-sandbox](https://github.com/mathieu-portfolio/infra-sandbox)
 
 Layered infrastructure simulation prototype exploring distributed systems visualization through specialized topology views and presentation-driven simulation rendering.
