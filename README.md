@@ -99,6 +99,8 @@ Collection of focused systems programming experiments exploring runtime and low-
 
 ## Other Projects
 
+**Job Search & Tooling** — [job-intel](https://github.com/mathieu-portfolio/job-intel), a local-first job analysis and application intelligence platform with configurable offer scoring, transparent evaluation breakdowns, and workflow-oriented tooling for technical job searches.
+
 **Procedural Generation** — [Voronoi-Generator](https://github.com/mathieu-portfolio/Voronoi-Generator) and [Mindmap-Generator](https://github.com/mathieu-portfolio/Mindmap-Generator), the latter building concept graphs from Wikipedia data.
 
 **Game Development** — [Peglin](https://github.com/mathieu-portfolio/Peglin) (reverse engineering and gameplay systems), [The-Ultimate-Alchemist](https://github.com/mathieu-portfolio/The-Ultimate-Alchemist), [Brick-Breaker](https://github.com/mathieu-portfolio/Brick-Breaker), and an SFML-based [Asteroids](https://github.com/mathieu-portfolio/Asteroids) remake.
